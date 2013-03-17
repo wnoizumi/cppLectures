@@ -1,0 +1,10 @@
+Do the following steps to compile and run your programs.
+
+In Linux:
+  g++ [source file name] -o [executable name] 
+  ./[executable name]
+
+In Windows:
+  g++ [source file name] -o [executable name].exe
+  [executable name] 
+
