@@ -6,5 +6,5 @@ In Linux:
 
 In Windows:
   g++ [source file name] -o [executable name].exe
-  [executable name] 
+  [executable name].exe
 
